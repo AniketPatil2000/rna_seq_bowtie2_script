@@ -1,0 +1,1 @@
+# Rna_seq_bowtie2_script.sh
